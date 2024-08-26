@@ -1,20 +1,30 @@
-## Hi there 👋
-Hi there, I'm AIQuantumCoder! 👋
-14-year-old coding enthusiast passionate about Python, AI, and Data Science. Exploring new technologies and building my skills daily. Excited to share my journey as I dive into Machine Learning and AI.
+# Hi there, I'm AIQuantumCoder! 👋
 
-🔧 Technologies & Tools
-Python, NumPy, pandas, SciPy
-Interests: AI, Machine Learning, Data Analysis
-🌱 What I'm Learning
-Deepening my knowledge in Machine Learning and advanced Python libraries.
-🎯 Goals
-Start open-source AI projects.
-Build and share my first ML project.
-Contribute to the tech community.
-🤝 Let's Connect!
-LinkedIn
-Email: your-email@example.com
-Stay tuned for updates on my journey! 🚀
+I'm a 14-year-old coding enthusiast with a passion for **Python**, **AI**, and **Data Science**. I'm always exploring new technologies and working on improving my skills every day. Although I'm still building my portfolio, I'm excited to share my journey with you!
+
+## 🔧 Technologies & Tools
+- **Languages:** Python
+- **Libraries:** NumPy, pandas, SciPy
+- **Interests:** Artificial Intelligence, Machine Learning, Data Analysis
+
+## 🌱 What I'm Learning
+- Currently diving deeper into **Machine Learning** and **AI**.
+- Exploring advanced Python libraries and their applications in data science.
+
+## 🎯 Goals for the Near Future
+- Start working on open-source projects related to AI and data science.
+- Build and share my first personal project that uses machine learning.
+- Contribute to the tech community by sharing my learning journey.
+
+## 🤝 How You Can Support Me
+- If you're interested in similar topics, feel free to follow me! I’ll be sharing updates on my learning progress and upcoming projects.
+- I'm open to collaboration on beginner-friendly projects—let's learn together!
+
+## 🌐 Connect with Me
+
+- Email: masihanayeriii@gmail.com
+
+Thanks for visiting my profile! Stay tuned for updates and new projects. 🚀
 <!--
 **AIQuantumCoder/AIQuantumCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
