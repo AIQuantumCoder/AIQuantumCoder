@@ -1,5 +1,20 @@
 ## Hi there 👋
+Hi there, I'm AIQuantumCoder! 👋
+14-year-old coding enthusiast passionate about Python, AI, and Data Science. Exploring new technologies and building my skills daily. Excited to share my journey as I dive into Machine Learning and AI.
 
+🔧 Technologies & Tools
+Python, NumPy, pandas, SciPy
+Interests: AI, Machine Learning, Data Analysis
+🌱 What I'm Learning
+Deepening my knowledge in Machine Learning and advanced Python libraries.
+🎯 Goals
+Start open-source AI projects.
+Build and share my first ML project.
+Contribute to the tech community.
+🤝 Let's Connect!
+LinkedIn
+Email: your-email@example.com
+Stay tuned for updates on my journey! 🚀
 <!--
 **AIQuantumCoder/AIQuantumCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
